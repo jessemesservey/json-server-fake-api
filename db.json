@@ -1,0 +1,45 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "title": "Brandon Simmons",
+      "about_excerpt": "This is some placeholder text, for now.",
+      "website_url": "https://brandonsimmons.ca",
+      "facebook_url": "https://facebook.com/someusername",
+      "twitter_url": "https://twitter.com/someusername",
+      "linkedin_url": "https://linkedin.com/someusername",
+      "youtube_url": "https://youtube.com/someusername",
+      "instagram_url": "https://instagram.com/someusername",
+      "languages": [
+        {
+        "id": 1,
+        "title": "English"
+        },
+        {
+        "id": 2,
+        "title": "French"
+        }
+      ],
+      "specialties": [
+        {
+        "id": 34,
+        "title": "First time buyers"
+        },
+        {
+        "id": 31,
+        "title": "Condos"
+        }
+      ],
+      "locations": [
+        {
+        "id": 12,
+        "title": "Hamilton"
+        },
+        {
+        "id": 43,
+        "title": "Burlington"
+        }
+      ],
+    },
+  ]
+}
