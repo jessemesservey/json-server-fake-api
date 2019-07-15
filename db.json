@@ -10,36 +10,39 @@
       "linkedin_url": "https://linkedin.com/someusername",
       "youtube_url": "https://youtube.com/someusername",
       "instagram_url": "https://instagram.com/someusername",
+      
       "languages": [
         {
-        "id": 1,
-        "title": "English"
+          "id": 1,
+          "title": "English"
         },
         {
-        "id": 2,
-        "title": "French"
+          "id": 2,
+          "title": "French"
         }
       ],
+
       "specialties": [
         {
-        "id": 34,
-        "title": "First time buyers"
+          "id": 34,
+          "title": "First time buyers"
         },
         {
-        "id": 31,
-        "title": "Condos"
+          "id": 31,
+          "title": "Condos"
         }
       ],
+
       "locations": [
         {
-        "id": 12,
-        "title": "Hamilton"
+          "id": 12,
+          "title": "Hamilton"
         },
         {
-        "id": 43,
-        "title": "Burlington"
+          "id": 43,
+          "title": "Burlington"
         }
-      ],
-    },
+      ]
+    }
   ]
 }
