@@ -1,5 +1,25 @@
 {
-  "profile": [
+  "languages": [
+    {
+      "id": 1,
+      "title": "English",
+    },
+    {
+      "id": 2,
+      "title": "French",
+    }
+  ],
+  "locations": [
+    {
+      "id": 21,
+      "title": "Hamilton",
+    },
+    {
+      "id": 4,
+      "title": "Burlington",
+    }
+  ],
+  "profiles": [
     {
       "id": 1,
       "title": "Brandon Simmons",
@@ -10,39 +30,16 @@
       "linkedin_url": "https://linkedin.com/someusername",
       "youtube_url": "https://youtube.com/someusername",
       "instagram_url": "https://instagram.com/someusername",
-      
-      "languages": [
-        {
-          "id": 1,
-          "title": "English"
-        },
-        {
-          "id": 2,
-          "title": "French"
-        }
-      ],
-
-      "specialties": [
-        {
-          "id": 34,
-          "title": "First time buyers"
-        },
-        {
-          "id": 31,
-          "title": "Condos"
-        }
-      ],
-
-      "locations": [
-        {
-          "id": 12,
-          "title": "Hamilton"
-        },
-        {
-          "id": 43,
-          "title": "Burlington"
-        }
-      ]
+    }
+  ],
+  "specialties": [
+    {
+      "id": 34,
+      "title": "First time buyers"
+    },
+    {
+      "id": 31,
+      "title": "Condos"
     }
   ]
 }
